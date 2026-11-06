@@ -17,13 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaima-abb&show_icons=true&theme=tokyonight" alt="Chaima's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaima-abb&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
